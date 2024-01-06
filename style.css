@@ -204,3 +204,10 @@ footer{
     width: 100%;
 }
 
+.foot{
+    text-align: center;
+    color: #FFF8F3;
+    background-color: #FD6E0A;
+    height: 30px;
+}
+
